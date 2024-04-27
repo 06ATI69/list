@@ -1,2 +1,2 @@
 # list
-definition list
+types of lists

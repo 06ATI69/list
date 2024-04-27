@@ -1,0 +1,41 @@
+/* ==== CONTENT STYLE ==== */
+
+body {
+      background-color: #ffffcc;
+}
+
+h1 {
+      font-family: "Nunito Sans", sans-serif;
+      color: #000066;
+      background-color: #ffe680; 
+      border-radius: 10px;
+      margin: 15px;
+      height: 40px;
+      width: 18rem;
+      text-align: center;
+    }
+
+li {
+      font-family: "Nunito Sans", sans-serif;
+      color: #000066;
+      margin-left: 15px;
+}
+
+dt {
+      font-family: "Nunito Sans", sans-serif;
+      border-radius: 10px;
+      color: #000066;
+      background-color: #ffeb99; 
+      margin: 15px;
+      height: 20px;
+      width: 13rem;
+      text-align: center;
+    }
+
+ dd {
+      color: #000066;
+      font-family: "Nunito Sans", sans-serif;
+      font-style: oblique;
+}
+
+/* === BY 06ATI69 ===*/
